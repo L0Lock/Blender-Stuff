@@ -3,7 +3,7 @@ triangles to quadrangles, in Object Mode.
 
  
 
-Usage
+# Usage
 
 --------
 
@@ -20,7 +20,7 @@ function from performing.
 
  
 
-Download and Installation
+# Download and Installation
 
 --------
 
