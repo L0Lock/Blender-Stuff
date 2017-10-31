@@ -5,12 +5,12 @@ triangles to quadrangles, in Object Mode.
 
 Usage
 
-\--------
+--------
 
 In Object Mode, select one or more objects, then press W to open the “Specials”
 menu and select “Quadrify Selected”.
 
-![](https://i.imgur.com/stbUYHS.gif)
+![demo GIF](https://i.imgur.com/stbUYHS.gif)
 
  
 
@@ -22,7 +22,7 @@ function from performing.
 
 Download and Installation
 
-\--------
+--------
 
  
 
