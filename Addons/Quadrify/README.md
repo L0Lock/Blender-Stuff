@@ -8,7 +8,7 @@ triangles to quadrangles, in Object Mode.
 In Object Mode, select one or more objects, then press W to open the “Specials”
 menu and select “Quadrify Selected”.
 
-![demo GIF](https://i.imgur.com/stbUYHS.gif)
+![demo GIF](https://i.imgur.com/EjJxlBM.gif)
 
  
 
